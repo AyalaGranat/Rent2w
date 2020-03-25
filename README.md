@@ -1,9 +1,10 @@
 # Rent2w System
 Rent2w
 
+In the rent2W system, you can register and rent a vehicle (by searching by address or station name), renting batteries for electric vehicles, return the batteries and vehicle. You can also produce a vehicle report at docking stations.
 
 
-Library: 
+Libraries: 
 More libraries: Jasper, UcanAcssess, Jcalendar, Json, XML. 
 
 
