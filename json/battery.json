@@ -1,0 +1,17 @@
+{
+"battery_info":[{"idBattery":"666","rateBattery":"100","location":"inCharging","drivingDistancePossi":"90"},
+
+{"idBattery":"100","rateBattery":"50","location":"inCharging","drivingDistancePossi":"100"},
+
+{"idBattery":"101","rateBattery":"50","location":"inVahicle","drivingDistancePossi":"100"},
+
+{"idBattery":"653","rateBattery":"100","location":"inCharging","drivingDistancePossi":"90"},
+
+{"idBattery":"656","rateBattery":"0","location":"inCharging","drivingDistancePossi":"90"},
+
+{"idBattery":"657","rateBattery":"100","location":"inVahicle","drivingDistancePossi":"70"},
+
+{"idBattery":"658","rateBattery":"50","location":"inCharging","drivingDistancePossi":"90"}
+,
+{"idBattery":"688","rateBattery":"10","location":"inCharging","drivingDistancePossi":"90"},
+{"idBattery":"601","rateBattery":"10","location":"inCharging","drivingDistancePossi":"90"}]}
