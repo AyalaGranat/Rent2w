@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ElectricVehicle_info exportDate="2020-02-12T16:32:43.965">
+  <ElectricVehicle ID="983">
+    <DateOfPro>2019-05-16 00:00:00.000000</DateOfPro>
+    <CodeBattery>852</CodeBattery>
+    <CodeManufacturer>013</CodeManufacturer>
+  </ElectricVehicle>
+  <ElectricVehicle ID="984">
+    <DateOfPro>1994-07-13 00:00:00.000000</DateOfPro>
+    <CodeBattery>850</CodeBattery>
+    <CodeManufacturer>014</CodeManufacturer>
+  </ElectricVehicle>
+  <ElectricVehicle ID="986">
+    <DateOfPro>1995-07-15 00:00:00.000000</DateOfPro>
+    <CodeBattery>851</CodeBattery>
+    <CodeManufacturer>013</CodeManufacturer>
+  </ElectricVehicle>
+  <ElectricVehicle ID="987">
+    <DateOfPro>1996-05-14 00:00:00.000000</DateOfPro>
+    <CodeBattery>853</CodeBattery>
+    <CodeManufacturer>012</CodeManufacturer>
+  </ElectricVehicle>
+</ElectricVehicle_info>

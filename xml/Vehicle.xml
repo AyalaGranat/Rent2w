@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Vehicle_info exportDate="2020-02-12T16:32:43.948">
+  <Vehicle ID="983">
+    <type>Scooter</type>
+    <LastParkingStop>126</LastParkingStop>
+  </Vehicle>
+  <Vehicle ID="984">
+    <type>Bicycle</type>
+    <LastParkingStop>126</LastParkingStop>
+  </Vehicle>
+  <Vehicle ID="985">
+    <type>Scooter</type>
+    <LastParkingStop>124</LastParkingStop>
+  </Vehicle>
+  <Vehicle ID="986">
+    <type>Scooter</type>
+    <LastParkingStop>123</LastParkingStop>
+  </Vehicle>
+  <Vehicle ID="987">
+    <type>Bicycle</type>
+    <LastParkingStop>123</LastParkingStop>
+  </Vehicle>
+</Vehicle_info>
